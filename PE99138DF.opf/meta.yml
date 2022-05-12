@@ -11,3 +11,8 @@ source_metadata:
       parent: Abhidharma
 created_at: '2022-02-28T22:48:44.149494'
 last_modified_at: '2022-02-28T22:48:44.149497'
+statistics:
+  total_words: 1207
+  total_non_words: 167
+quality:
+  non_words_ratio: 0.14
